@@ -63,7 +63,7 @@ std:srand(std::time(0));
 
 
         end_game(answer, codeword);
-        std::cout << "Doy you want to play again? (y/n):";
+        std::cout << "Do you want to play again? (y/n):";
         std::cin >> play_again;
     }
 
@@ -81,4 +81,4 @@ Allow players to play the game more than once.
 
 Print out a message confirming what codeword was if the player wins or loses.
 
-Modify player input so that it isn’t case sensitive.*/
+Modify player input so that it isnï¿½t case sensitive.*/
